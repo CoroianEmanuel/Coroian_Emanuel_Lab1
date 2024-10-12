@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Coroian_Emanuel_Lab1/1.0.0": {
+        "runtime": {
+          "Coroian_Emanuel_Lab1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Coroian_Emanuel_Lab1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
