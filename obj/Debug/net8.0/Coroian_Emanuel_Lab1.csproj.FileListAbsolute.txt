@@ -28,3 +28,4 @@
 /Users/coraianemanuel/Desktop/DotNET/Coroian_Emanuel_Lab1/obj/Debug/net8.0/Coroian_Emanuel_Lab1.pdb
 /Users/coraianemanuel/Desktop/DotNET/Coroian_Emanuel_Lab1/obj/Debug/net8.0/Coroian_Emanuel_Lab1.genruntimeconfig.cache
 /Users/coraianemanuel/Desktop/DotNET/Coroian_Emanuel_Lab1/obj/Debug/net8.0/ref/Coroian_Emanuel_Lab1.dll
+/Users/coraianemanuel/Desktop/DotNET/Coroian_Emanuel_Lab1/obj/Debug/net8.0/Coroian_Emanuel_Lab1.sourcelink.json
